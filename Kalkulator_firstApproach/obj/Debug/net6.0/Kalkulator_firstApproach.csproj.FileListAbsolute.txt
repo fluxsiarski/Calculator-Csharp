@@ -1,0 +1,15 @@
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/bin/Debug/net6.0/Kalkulator_firstApproach
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/bin/Debug/net6.0/Kalkulator_firstApproach.deps.json
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/bin/Debug/net6.0/Kalkulator_firstApproach.runtimeconfig.json
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/bin/Debug/net6.0/Kalkulator_firstApproach.dll
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/bin/Debug/net6.0/Kalkulator_firstApproach.pdb
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.csproj.AssemblyReference.cache
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.AssemblyInfoInputs.cache
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.AssemblyInfo.cs
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.csproj.CoreCompileInputs.cache
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.dll
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/refint/Kalkulator_firstApproach.dll
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.pdb
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/Kalkulator_firstApproach.genruntimeconfig.cache
+/Users/zielvik/Documents/Coding/Projects/Cs_Projects/Kalkulator_firstApproach/Kalkulator_firstApproach/obj/Debug/net6.0/ref/Kalkulator_firstApproach.dll
