@@ -1,13 +1,50 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
 # Rider ignored files
 /modules.xml
 /projectSettingsUpdater.xml
 /.idea.Kalkulator_firstApproach.iml
 /contentModel.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Build artifacts
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# IDE-specific ignored files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS-specific ignored files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Temporary files
+*.tmp
+*.cache
+*.swp
+*.lock
